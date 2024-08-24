@@ -16,3 +16,15 @@ iTasks is a simple, minimalistic task management app for macOS, designed to help
 * Clean Interface: iTasks is designed with a focus on simplicity and ease of use, providing a distraction-free experience.
 
 ## Installation
+
+1. Download the latest release of iTasks from the Releases page.
+2. Open the downloaded .dmg file and drag the iTasks app to your Applications folder.
+3. Launch iTasks from your Applications folder and start managing your tasks like a pro!
+
+## Contributing
+
+Contributions are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+iTimer2 is licensed under the MIT License. See the LICENSE file for more details.
