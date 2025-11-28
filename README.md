@@ -27,4 +27,4 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 
 ## License
 
-iTimer2 is licensed under the MIT License. See the LICENSE file for more details.
+iTasks is licensed under the MIT License. See the LICENSE file for more details.
